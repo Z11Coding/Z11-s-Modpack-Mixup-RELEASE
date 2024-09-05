@@ -1,0 +1,33 @@
+{
+	"storyName": "Savestate",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Savestate",
+			"bf",
+			[
+				86,
+				193,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"category": "oneshots",
+	"weekName": "SaveState",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,28 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "finn",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"category": "remixes",
+	"songs": [
+		[
+			"Come Along With Me",
+			"finn",
+			[
+				0,
+				0,
+				0
+			],
+			75
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "cawm"
+}

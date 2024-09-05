@@ -1,0 +1,18 @@
+states/PlayState.hx (line 8585)
+playfields/PlayField.hx (line 447)
+flixel/group/FlxGroup.hx (line 161)
+flixel/group/FlxGroup.hx (line 161)
+backend/MusicBeatState.hx (line 100)
+states/PlayState.hx (line 4868)
+flixel/FlxState.hx (line 239)
+flixel/FlxGame.hx (line 750)
+flixel/FlxGame.hx (line 680)
+flixel/FlxGame.hx (line 559)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: Null Object Reference
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng
+> Crash prevented!

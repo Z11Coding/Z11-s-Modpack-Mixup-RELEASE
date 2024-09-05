@@ -1,0 +1,42 @@
+{
+	"storyName": "Matt do be packin quite the punch",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"category": "oneshots",
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Pack-A-Punch",
+			"matt",
+			[
+				255,
+				153,
+				15
+			]
+		],
+		[
+			"Driller",
+			"matt",
+			[
+				255,
+				153,
+				15
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "pack-a-punch"
+}

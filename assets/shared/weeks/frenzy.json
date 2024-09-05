@@ -1,0 +1,33 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Fangirl Frenzy",
+			"sky",
+			[
+				0,
+				140,
+				240
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"category": "secrets",
+	"hiddenUntilUnlocked": false,
+	"weekName": "Fanicon"
+}

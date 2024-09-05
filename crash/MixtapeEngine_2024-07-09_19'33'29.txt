@@ -1,0 +1,16 @@
+C:\HaxeToolkit\haxe\std/cpp/_std/sys/io/File.hx (line 30)
+backend/Song.hx (line 130)
+backend/MusicBeatState.hx (line 192)
+states/TitleState.hx (line 148)
+flixel/FlxGame.hx (line 640)
+flixel/FlxGame.hx (line 727)
+flixel/FlxGame.hx (line 680)
+flixel/FlxGame.hx (line 553)
+openfl/events/EventDispatcher.hx (line 444)
+openfl/display/DisplayObject.hx (line 1400)
+
+Uncaught Error: [file_contents,assets/shared/data/beat-battle/beat-battle-easy.json]
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng
+> Crash prevented!

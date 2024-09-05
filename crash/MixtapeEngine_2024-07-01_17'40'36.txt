@@ -1,0 +1,20 @@
+lime/utils/Log.hx (line 34)
+lime/utils/Assets.hx (line 138)
+lime/utils/Assets.hx (line 192)
+openfl/utils/Assets.hx (line 104)
+backend/GPUBitmap.hx (line 46)
+backend/ImageCache.hx (line 12)
+states/CacheState.hx (line 983)
+flixel/FlxState.hx (line 222)
+flixel/FlxGame.hx (line 752)
+flixel/FlxGame.hx (line 682)
+flixel/FlxGame.hx (line 550)
+openfl/events/EventDispatcher.hx (line 444)
+openfl/display/DisplayObject.hx (line 1400)
+
+Uncaught Error: [lime.utils.Assets] ERROR: There is no IMAGE asset with an ID of "assets/rave/images/rave/ravelight0"
+Please report this error to the GitHub page: https://github.com/Z11Coding/Mixtape-Engine
+
+> Crash Handler written by: sqirra-rng
+
+The Game Will Now Close...

@@ -1,0 +1,27 @@
+{
+	"storyName": "",
+	"difficulties": "FNF, NITG, POSSESSED",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"category": "secrets",
+	"songs": [
+		[
+			"Possessed By The Blood Moon",
+			"bf",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Possessed By The Blood Moon"
+}
