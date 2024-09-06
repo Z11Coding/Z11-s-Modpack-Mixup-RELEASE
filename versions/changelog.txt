@@ -1,2 +1,4 @@
-0.3.3 - The TRUE Update Test
-- please work
+0.3.3 - THe Bigfix/Update System Test
+- Fixed the modcharts not turning off with the option
+- Fixed MiddleScroll
+- Cache now defaults to false

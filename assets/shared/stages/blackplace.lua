@@ -171,10 +171,12 @@ function onStepHit()
 	if curStep == 1024 then
 		cameraFlash('game', 'ffffff', 1)
 		setProperty('ghosttile.alpha', 1)
-		setValue('drunk', 1)
-		setValue('drunkZ', 2)
-		setValue('tipsy', 1)
-		setValue('cross', 1)
+		if getPropertyFromClass('backend.CLientPrefs', 'data.modcharts') then
+			setValue('drunk', 1)
+			setValue('drunkZ', 2)
+			setValue('tipsy', 1)
+			setValue('cross', 1)
+		end
 	end
 	if curStep == 1152 then
 		cameraFlash('game', 'ffffff', 1)
@@ -189,8 +191,10 @@ function onStepHit()
 		setProperty('ghostbop.alpha', 1)
 		setProperty('ghostbopmid.alpha', 1)
 		setProperty('ghostbopmidright.alpha', 1)
-		setValue('cross', 0)
-		setValue('split', 1)
+		if getPropertyFromClass('backend.CLientPrefs', 'data.modcharts') then
+			setValue('cross', 0)
+			setValue('split', 1)
+		end
 	end
 
 	if curStep == 1536 then
@@ -199,11 +203,13 @@ function onStepHit()
 		setProperty('ghostbop.alpha', 0)
 		setProperty('ghostbopmid.alpha', 0)
 		setProperty('ghostbopmidright.alpha', 0)
-		setValue('split', 0)
-		setValue('drunk', 0)
-		setValue('drunkZ', 0)
-		setValue('tipsy', 0)
-		setValue('beat', 1)
+		if getPropertyFromClass('backend.CLientPrefs', 'data.modcharts') then
+			setValue('split', 0)
+			setValue('drunk', 0)
+			setValue('drunkZ', 0)
+			setValue('tipsy', 0)
+			setValue('beat', 1)
+		end
 	end
 
 	if curStep == 1784 then
