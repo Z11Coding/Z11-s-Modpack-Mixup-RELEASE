@@ -1,4 +1,0 @@
-assets\shared\data\beat-battle-2\modchart.lua
-assets\shared\stages\blackplace.lua
-assets\shared\stages\cawm.lua
-MixEngine.exe
