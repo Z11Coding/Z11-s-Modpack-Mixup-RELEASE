@@ -1,3 +1,4 @@
+assets/shared/hi.txt
 assets/shared/data/beat-battle-2/modchart.lua
 assets/shared/stages/blackplace.lua
 assets/shared/weeks/coldsteel.json
