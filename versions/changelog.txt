@@ -3,3 +3,5 @@
 - Fixed MiddleScroll
 - Cache now defaults to false
 - General Bug Fixes
+0.3.4 - Image Bugfix
+- Fixed the characters not loading properly (i hope)
