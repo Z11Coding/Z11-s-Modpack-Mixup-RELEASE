@@ -1,4 +1,5 @@
 assets/shared/data/beat-battle-2/modchart.lua
+assets/shared/data/resistalovania-mega-mix/b.lua
 assets/shared/stages/blackplace.lua
 assets/shared/weeks/coldsteel.json
 assets/shared/stages/cawm.lua
@@ -21,6 +22,7 @@ assets/shared/stages/portal.json
 assets/shared/weeks/test.json
 assets/songs/testimony/Inst.ogg
 assets/songs/testimony/Voices.ogg
+assets/shared/GARGANTUANELEPHANT.txt
 manifest/songs.json
 manifest/default.json
 MixEngine.exe
